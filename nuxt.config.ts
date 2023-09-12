@@ -6,9 +6,6 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: ['nuxt-vuefire'],
   vuefire: {
-    auth: {
-      enabled: true
-    },
     config: {
       apiKey: 'AIzaSyAcP6zcgwOyjreQLzd9Y4DA8cGMi1hrczI',
       authDomain: 'modernmedlife-5a65e.firebaseapp.com',
